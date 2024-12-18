@@ -1,4 +1,4 @@
-# Support
+# Help area
 PodFerry.com FAQ and Issue Repository
 
 # Links
