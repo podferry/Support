@@ -20,6 +20,10 @@ For desktop listening, complementary to AntennaPod mobile app, you may use the [
 It appears that AntennaPod only tracks playback progress for episodes that were initially started within its own app. Episodes started in PodFerry might not have their playback positions recognized or updated in AntennaPod. Conversely, episodes initiated in AntennaPod resume correctly in PodFerry. Unfortunately, there might not be a solution on the PodFerry side to address this issue.
 
 ---
+### Why does the number of subscriptions shown in PodFerry's settings differ from the number displayed in the player?
+The settings page accurately reflects the total number of subscriptions stored and accessible by your account. The subscription count in the player might be influenced by factors like free subscription tier, resource limitations aimed at optimizing service for all users or third party CORS policy limitations".
+
+---
 ### Why hasn't my plan changed?
 Typically, after a donation, the subscription status updates within minutes.
 However, if a different email was used through our third-party payment provider, manual reconciliation may be needed to link the payment with the subscription.
