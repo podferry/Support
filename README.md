@@ -1,5 +1,5 @@
 # Help area - PodFerry.com
-*FAQ and Issue Repository*
+**FAQ and Issue Repository** for use by end-users.
 
 ## FAQ
 
