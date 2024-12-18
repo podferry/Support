@@ -16,6 +16,10 @@ PodFerry is compatible with gPodder.net protocol v2. It has been tested with Ant
 For desktop listening, complementary to AntennaPod mobile app, you may use the [web player](https://www.podferry.com/dashboard/player) that works in any browser.
 
 ---
+### Why do my episode playback statuses differ between AntennaPod and PodFerry player?
+It appears that AntennaPod only tracks playback progress for episodes that were initially started within its own app. Episodes started in PodFerry might not have their playback positions recognized or updated in AntennaPod. Conversely, episodes initiated in AntennaPod resume correctly in PodFerry. Unfortunately, there might not be a solution on the PodFerry side to address this issue.
+
+---
 ### Why hasn't my plan changed?
 Typically, after a donation, the subscription status updates within minutes.
 However, if a different email was used through our third-party payment provider, manual reconciliation may be needed to link the payment with the subscription.
