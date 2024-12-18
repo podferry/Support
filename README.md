@@ -10,5 +10,5 @@ Link to [Frequently Asked Questions](https://github.com/podferry/Support/blob/ma
 Submit or Review [Issues](https://github.com/podferry/Support/issues)
 
 
-## Links
-[Homepage](https://www.podferry.com/)
+## Homepage
+Visit [Site](https://www.podferry.com/)
