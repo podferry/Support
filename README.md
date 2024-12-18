@@ -1,14 +1,14 @@
-# Help area
-PodFerry.com FAQ and Issue Repository
+# Help area - PodFerry.com
+*FAQ and Issue Repository*
 
-# FAQ
+## FAQ
 
 Link to [Frequently Asked Questions](https://github.com/podferry/Support/blob/master/FAQ.md)
 
-# Issues
+## Issues
 
 Submit or Review [Issues](https://github.com/podferry/Support/issues)
 
 
-# Links
+## Links
 [Homepage](https://www.podferry.com/)
