@@ -1,6 +1,5 @@
 ## Frequently Asked Questions
 
----
 ### Why hasn't my plan changed?
 Typically, after a donation, the subscription status updates within minutes.
 However, if a different email was used through our third-party payment provider, manual reconciliation may be needed to link the payment with the subscription.
