@@ -1,5 +1,8 @@
 # What's New
 
+### In progress
+* Fix: Ensure subscription cancellation before permitting account deletion 
+
 ### 2025-01-07
 * Added *reCAPTCHA* to fight the zombies.
 
