@@ -1,7 +1,9 @@
 # What's New
 
-### PLANNED 2025-03-01
-* Implement subscription quotas for free users to ensure high performance for contributors.
+### FUTURE RELEASE - PLANNED ON 2025-03-01
+* Improved online player to reflect updates more quickly; client updates remain subject to AntennaPod's periodic sync schedule.
+* Fixed an issue where queued player episodes overrode the timestamp with local instead UTC time.
+* Implemented subscription quotas for free users to ensure high performance for contributors.
 
 ### 2025-02-04
 * Confirm subscription cancellation before allowing account deletion.
