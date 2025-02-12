@@ -1,7 +1,7 @@
 # What's New
 
 ### FUTURE RELEASE - PLANNED ON 2025-03-01
-* Improved online player to reflect updates more quickly; client updates remain subject to AntennaPod's periodic sync schedule.
+* Improved online player to reflect client updates more quickly; client updates remain subject to AntennaPod's periodic sync schedule.
 * Fixed an issue where queued player episodes overrode the timestamp with local instead UTC time.
 * Implemented subscription quotas for free users to ensure high performance for contributors.
 
