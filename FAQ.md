@@ -1,4 +1,4 @@
-## Frequently Asked Questions
+# Frequently Asked Questions
 
 ### How can I sync my tablet and phone?
 ##### Device Name Matters
