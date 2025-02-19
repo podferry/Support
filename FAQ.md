@@ -29,3 +29,12 @@ Typically, after a donation, the subscription status updates within minutes.
 However, if a different email was used through our third-party payment provider, manual reconciliation may be needed to link the payment with the subscription.
 In most cases, this issue is resolved automatically within 48 hours without any action on your part.
 If you encounter any problems, please reach out via the Support [form](https://www.podferry.com/help/requestform).
+
+---
+### Where is my data located?
+The site operates from a European data center. 
+
+
+---
+### How can I close my account?
+Account deletion is available in the settings menu.
