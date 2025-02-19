@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-# **SYNCHRONIZATION**
+## **Synchronization**
 
 ### How can I sync my tablet and phone?
 ##### Device Name Matters
@@ -25,7 +25,7 @@ The settings page accurately reflects the total number of subscriptions stored a
 PodFerry is compatible with gPodder.net protocol v2. It has been tested with AntennaPod, but compatibility with other gPodder clients or older protocol versions have not been verified. There are no plans to support other variations.
 For desktop listening, complementary to AntennaPod mobile app, you may use the [web player](https://www.podferry.com/dashboard/player) that works in any browser.
 
-# **ACCOUNT**
+## **Account**
 ---
 ### Why hasn't my plan changed?
 Typically, after a donation, the subscription status updates within minutes.
