@@ -15,15 +15,16 @@ Remember: Only episodes you've actually listened to will be synchronized. Unplay
 ### ***Why do AntennaPod and PodFerry show different episode playback statuses?***
 It appears that AntennaPod only tracks playback progress for episodes that were initially started within its own app. Episodes started in PodFerry might not have their playback positions recognized or updated in AntennaPod. Conversely, episodes initiated in AntennaPod resume correctly in PodFerry. Unfortunately, there might not be a solution on the PodFerry side to address this issue.
 
-### ***Why the subscription count discrepancy in PodFerry?***
-The settings page accurately reflects the total number of subscriptions stored and accessible by your account. The subscription count in the player might be influenced by factors like free subscription tier, resource limitations aimed at optimizing service for all users or third party CORS policy limitations".
-
-### ***Why is there a sync quota, even for contributors?***
-Contributors are not subject to a quota. Switching from free to contributor may require a full AntennaPod sync, forcing retrieval of all accessible subscriptions.
-
 ### ***What apps and protocols are compatible with PodFerry?***
 PodFerry is compatible with gPodder.net protocol v2. It has been tested with AntennaPod, but compatibility with other gPodder clients or older protocol versions have not been verified. There are no plans to support other variations.
 For desktop listening, complementary to AntennaPod mobile app, you may use the [web player](https://www.podferry.com/dashboard/player) that works in any browser.
+
+## Quota
+### ***Why is there a sync quota, even for contributors?***
+Contributors are not subject to a quota. Switching from free to contributor may require a full AntennaPod sync, forcing retrieval of all accessible subscriptions.
+
+### ***Why the subscription count discrepancy in PodFerry?***
+The settings page accurately reflects the total number of subscriptions stored and accessible by your account. The subscription count in the player might be influenced by factors like free subscription tier, resource limitations aimed at optimizing service for all users or third party CORS policy limitations".
 
 ## Account
 ### ***Why hasn't my plan changed?***
