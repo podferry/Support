@@ -5,7 +5,7 @@
 * Improvements to the online player queue, negating the need for manual refreshes.
 * Fixed an issue where queued player episodes overrode the timestamp with local time instead of UTC time.
 * Implemented subscription quotas for free users to ensure high performance for contributors.
-* FAQ displayed on-site instead of external redirect.
+* _FAQ_ and _What's New_ displayed on-site instead of external redirect.
 * Support form require registration to reduce spam.
 
 ### 2025-02-04
