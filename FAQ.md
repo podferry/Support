@@ -19,22 +19,22 @@ It appears that AntennaPod only tracks playback progress for episodes that were 
 PodFerry is compatible with gPodder.net protocol v2. It has been tested with AntennaPod, but compatibility with other gPodder clients or older protocol versions have not been verified. There are no plans to support other variations.
 For desktop listening, complementary to AntennaPod mobile app, you may use the [web player](https://www.podferry.com/dashboard/player) that works in any browser.
 
-## Quota
-### ***Why is there a sync quota, even for contributors?***
+### Quota
+#### ***Why is there a sync quota, even for contributors?***
 Contributors are not subject to a quota. Switching from free to contributor may require a full AntennaPod sync, forcing retrieval of all accessible subscriptions.
 
-### ***Why the subscription count discrepancy in PodFerry?***
+#### ***Why the subscription count discrepancy in PodFerry?***
 The settings page accurately reflects the total number of subscriptions stored and accessible by your account. The subscription count in the player might be influenced by factors like free subscription tier, resource limitations aimed at optimizing service for all users or third party CORS policy limitations".
 
-## Account
-### ***Why hasn't my plan changed?***
+### Account
+#### ***Why hasn't my plan changed?***
 Typically, after a donation, the subscription status updates within minutes.
 However, if a different email was used through our third-party payment provider, manual reconciliation may be needed to link the payment with the subscription.
 In most cases, this issue is resolved automatically within 48 hours without any action on your part.
 If you encounter any problems, please reach out via the Support [form](https://www.podferry.com/help/requestform).
 
-### ***How can I close my account?***
+#### ***How can I close my account?***
 Account deletion is available in the settings menu.
 
-### ***Where is my data located?***
+#### ***Where is my data located?***
 The site operates from a European data center. 
