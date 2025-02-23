@@ -2,7 +2,7 @@
 
 ### Synchronization
 
-#### ***How can I sync my tablet and phone?***
+#### How can I sync my tablet and phone?
 ##### Device Name Matters
 To keep your episodes in sync across all your devices (phone, tablet, etc.), make sure they all use the same AntennaPod device name. For example, if your phone's AntennaPod app is named "antennapod_sm9," choose the same name on your tablet instead of creating a new one like "antennapod_tab10."        
 ##### Checking Sync Status
