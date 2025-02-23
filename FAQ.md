@@ -20,6 +20,7 @@ PodFerry is compatible with gPodder.net protocol v2. It has been tested with Ant
 For desktop listening, complementary to AntennaPod mobile app, you may use the [web player](https://www.podferry.com/dashboard/player) that works in any browser.
 
 ### Quota
+
 #### Why is there a sync quota, even for contributors?
 Contributors are not subject to a quota. Switching from free to contributor may require a full AntennaPod sync, forcing retrieval of all accessible subscriptions.
 
@@ -27,6 +28,7 @@ Contributors are not subject to a quota. Switching from free to contributor may 
 The settings page accurately reflects the total number of subscriptions stored and accessible by your account. The subscription count in the player might be influenced by factors like free subscription tier, resource limitations aimed at optimizing service for all users or third party CORS policy limitations".
 
 ### Account
+
 #### Why hasn't my plan changed?
 Typically, after a donation, the subscription status updates within minutes.
 However, if a different email was used through our third-party payment provider, manual reconciliation may be needed to link the payment with the subscription.
