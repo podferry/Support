@@ -1,6 +1,6 @@
 # What's New
 
-### 2025-03-01 [IN-FLIGHT TESTING]
+### 2025-03-01 
 * Improvements to the online player to reflect client updates more quickly; mobile updates remain subject to AntennaPod's periodic sync schedule.
 * Improvements to the online player queue, negating the need for manual refreshes.
 * Fixed an issue where queued player episodes overrode the timestamp with local time instead of UTC time.
