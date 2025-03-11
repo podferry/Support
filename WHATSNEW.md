@@ -1,5 +1,8 @@
 # What's New
 
+### 2025-03-11
+* Improve safeguard of unparseable feeds
+
 ### 2025-03-01 
 * Improvements to the online player to reflect client updates more quickly; mobile updates remain subject to AntennaPod's periodic sync schedule.
 * Improvements to the online player queue, negating the need for manual refreshes.
