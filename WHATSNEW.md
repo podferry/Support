@@ -1,7 +1,10 @@
 # What's New
 
+### 2025-04-02
+* Corrected typo in the Getting Started guide.
+
 ### 2025-03-11
-* Improve safeguard of unparseable feeds.
+* Improved safeguard of unparseable feeds.
 
 ### 2025-03-01 
 * Improvements to the online player to reflect client updates more quickly; mobile updates remain subject to AntennaPod's periodic sync schedule.
