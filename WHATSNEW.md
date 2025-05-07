@@ -1,5 +1,8 @@
 # What's New
 
+### 2025-05-07
+* Resolved issue with removing misaligned subscriptions.
+
 ### 2025-04-02
 * Corrected typo in the Getting Started guide.
 
