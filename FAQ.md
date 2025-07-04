@@ -39,7 +39,7 @@ If you encounter any problems, please reach out via the Support [form](https://w
 Account deletion is available in the settings menu.
 
 #### How do I change my email address?
-Your account email cannot be changed at the moment. You may delete your existing account and create a new one. If you're a contributing member, please provide your new account's username and email to transfer your status.
+Your account email cannot be changed at the moment. You may delete your existing account and create a new one. If you're a contributing member, please [provide](https://www.podferry.com/help/requestform) your new account's username and email to transfer your status.
 
 #### Where is my data located?
 The site operates from a European data center. 
