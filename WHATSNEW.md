@@ -1,5 +1,8 @@
 # What's New
 
+### 2025-08-05
+* NEW! Subscriptions can now be exported to OPML format. Available in the Subscriptions tab of the PodFerry web player.
+ 
 ### 2025-05-07
 * Resolved issue with removing misaligned subscriptions.
 
