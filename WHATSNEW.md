@@ -1,5 +1,8 @@
 # What's New
 
+### 2025-10-20
+* Player playback no longer auto-starts - the first click displays the episode description, and a second click is required to begin playback.
+
 ### 2025-08-05
 * NEW! Subscriptions can now be exported to OPML format. Available in the Subscriptions tab of the PodFerry web player.
  
