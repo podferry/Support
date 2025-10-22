@@ -1,5 +1,8 @@
 # What's New
 
+### 2025-10-22
+* PREVIEW! Dark theme is now available — toggle it using the button in the center of the top bar.
+
 ### 2025-10-20
 * Player playback no longer auto-starts - the first click displays the episode description, and a second click is required to begin playback.
 
