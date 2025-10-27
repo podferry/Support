@@ -1,5 +1,8 @@
 # What's New
 
+### 2025-10-27
+* Player updated with mute option and layout improvements.
+
 ### 2025-10-22
 * PREVIEW! Dark theme is now available — switch theme using the button in the center of the top bar.
 
