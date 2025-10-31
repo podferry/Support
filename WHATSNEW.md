@@ -1,5 +1,8 @@
 # What's New
 
+### 2025-10-31
+* Player layout refreshed, including auto-play after seek and other minor tweaks.
+
 ### 2025-10-27
 * Player updated with mute option and layout improvements.
 
