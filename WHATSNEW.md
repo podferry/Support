@@ -1,5 +1,8 @@
 # What's New
 
+### 2025-11-03
+* Player now supports auto-chapters from description timestamps.
+
 ### 2025-10-31
 * Player layout refreshed, including auto-play after seek and other minor tweaks.
 
