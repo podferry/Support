@@ -1,7 +1,7 @@
 # What's New
 
 ### 2025-11-07
-* Resolved bugs affecting chapter functionality.
+* Player resolved bugs affecting chapter functionality.
 
 ### 2025-11-03
 * Player now supports auto-chapters from description timestamps.
