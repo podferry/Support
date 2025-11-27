@@ -1,5 +1,9 @@
 # What's New
 
+### 2025-11-27
+* Enhanced session caching to minimize repeated logins.
+* Disregard persistently faulty feeds.
+
 ### 2025-11-07
 * Player resolved bugs affecting chapter functionality.
 
