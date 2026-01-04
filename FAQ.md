@@ -19,6 +19,20 @@ It appears that AntennaPod only tracks playback progress for episodes that were 
 PodFerry is compatible with gPodder.net protocol v2. It has been tested with AntennaPod, but compatibility with other gPodder clients or older protocol versions have not been verified. There are no plans to support other variations.
 For desktop listening, complementary to AntennaPod mobile app, you may use the [web player](https://www.podferry.com/dashboard/player) that works in any browser.
 
+#### Why am I unable to authenticate or access the service?
+Access to the service is now limited to supporters. Accounts that were previously on the free program shall move to a 21-day trial period. Once this trial expires, synchronization authentication is disabled unless the account is upgraded.
+
+### Trial
+
+#### I was previously a free user. What changed?
+To ensure a scalable, reliable, and high-quality service for supporters, we transitioned away from free access. Free users are temporarily granted trial access before requiring a supporter plan.
+
+#### How long does the trial last?
+The trial period lasts 21 days. After that, synchronization authentication will no longer be available without a supporter plan.
+
+#### Will my data or account be deleted if I don’t upgrade?
+No. PodFerry website access remains available, subject to usage limits. Synchronization and Gpodder client authentication are restricted.
+
 ### Quota
 
 #### Why does the OPML export contain fewer subscriptions than what I see in the app?
