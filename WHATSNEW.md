@@ -1,5 +1,8 @@
 # What's New
 
+### 2025-01-05
+* Transitioning free access to trial accounts to ensure long-term sustainability.
+
 ### 2025-11-27
 * Enhanced session caching to minimize repeated logins.
 * Disregard persistently faulty feeds.
