@@ -21,7 +21,7 @@ For desktop listening, complementary to AntennaPod mobile app, you may use the [
 
 #### Why am I unable to authenticate or access the service?
 Access to the service is now limited to supporters. Accounts that were previously on the free program shall move to a 21-day trial period. Once this trial expires, synchronization authentication is disabled unless the account is upgraded.
-
+---
 ### Trial
 
 #### I was previously a free user. What changed?
