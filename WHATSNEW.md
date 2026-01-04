@@ -1,6 +1,6 @@
 # What's New
 
-### 2025-01-05
+### 2026-01-05
 * Transitioning free access to trial accounts to ensure long-term sustainability.
 
 ### 2025-11-27
