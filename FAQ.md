@@ -25,10 +25,10 @@ For desktop listening, complementary to AntennaPod mobile app, you may use the [
 The number of subscriptions included in the OPML export depends on your subscription tier, which may impose a quota on how many can be exported. 
 
 #### Why is there a sync quota, even for contributors?
-Contributors are not subject to a quota. Switching from free to contributor may require a full AntennaPod sync, to force retrieval of all accessible podcasts subscriptions.
+Contributors are not subject to a quota. Switching from trial to contributor may require a full AntennaPod sync, to force retrieval of all accessible podcasts subscriptions.
 
 #### Why the subscription count discrepancy in PodFerry?
-The settings page accurately reflects the total number of subscriptions stored and accessible by your account. The subscription count in the player might be influenced by factors like free subscription tier, resource limitations aimed at optimizing service for all users or third party CORS policy limitations".
+The settings page accurately reflects the total number of subscriptions stored and accessible by your account. The subscription count in the player might be influenced by factors like trial subscription tier, resource limitations aimed at optimizing service for all users or third party CORS policy limitations".
 
 ### Account
 
