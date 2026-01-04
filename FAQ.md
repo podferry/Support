@@ -27,7 +27,7 @@ Access to the service is now limited to supporters. Accounts that were previousl
 ### Trial
 
 #### I was previously a free user. What changed?
-To ensure a scalable, reliable, and high-quality service for supporters, we transitioned away from free access. Free users are temporarily granted trial access before requiring a supporter plan.
+To ensure a reliable service for supporters, PodFerry transitioned away from free access. Free users are temporarily granted trial access before requiring a supporter plan.
 
 #### How long does the trial last?
 The trial period lasts 21 days. After that, synchronization authentication will no longer be available without a supporter plan.
