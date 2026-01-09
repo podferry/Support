@@ -1,7 +1,7 @@
 # What's New
 
 ### 2026-01-05
-* Transitioning free access to trial accounts to ensure long-term sustainability.
+* Transitioning free access to trial accounts to ensure long-term sustainability. All new users and current free users will transition to a 21-day trial. After the trial ends, accounts not on a Supporter or Hero plan will no longer be able to synchronize using PodFerry.
 
 ### 2025-11-27
 * Enhanced session caching to minimize repeated logins.
