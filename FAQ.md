@@ -2,6 +2,10 @@
 
 ### Synchronization
 
+### AntennaPod suddenly reports that synchronization has failed. What’s happening?
+This usually means your trial period has expired. After the trial ends, the service restricts API access used by GPodder-compatible clients like AntennaPod, which results in authentication failures.
+Your account credentials are still valid—this is why the website and dashboard remain accessible. To confirm, log in to the dashboard and check your account or subscription status. If the trial has expired, supporting PodFerry  will restore synchronization.
+
 #### How can I sync my tablet and phone?
 ##### Device Name Matters
 To keep your episodes in sync across all your devices (phone, tablet, etc.), make sure they all use the same AntennaPod device name. For example, if your phone's AntennaPod app is named "antennapod_sm9," choose the same name on your tablet instead of creating a new one like "antennapod_tab10."        
