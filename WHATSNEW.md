@@ -1,5 +1,8 @@
 # What's New
 
+### 2026-02-14
+* Fixed an issue affecting the transition to trial mode.
+
 ### 2026-01-26
 * Applied minor cosmetic updates to the dashboard settings.
 
