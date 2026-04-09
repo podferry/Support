@@ -1,5 +1,8 @@
 # What's New
 
+### 2026-04-09
+* Past-due grace period handler.
+
 ### 2026-02-14
 * Fixed an issue affecting the transition to trial mode.
 
