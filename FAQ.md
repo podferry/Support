@@ -8,12 +8,11 @@ Your account credentials are still valid—this is why the website and dashboard
 See also the _Trial_ section.
 
 ### Why are my individual episodes not syncing correctly?
-The underlying sync protocol has limited support for per-episode playback progress, and clients don’t consistently perform frequent background syncs. That combination can result in missed updates or conflicts between devices—and it’s not something that can be fixed on the server side.
+The sync protocol just isn’t great at handling per-episode progress, and the apps don’t sync often enough in the background. That’s why you end up with missing updates or devices overwriting each other—and there’s nothing the server can really do about it.
 
-About the “start listening” delay:
-If you pause on one device and immediately continue on another, the second device may not yet reflect your latest position. Sync isn’t real-time; it depends on periodic refresh cycles. Until the second device syncs, it won’t be aware of the updated playback state.
+On top of that, there’s a delay: if you stop on one device and jump to another right away, the second one probably hasn’t synced yet, so it doesn’t know where you left off. Sync isn’t instant—it only updates when it runs a refresh.
 
-Manually forcing a sync before switching devices is a workaround, but in practice it’s not reliable or convenient enough for regular use.
+You can force a manual sync before switching devices, but realistically that’s not a great solution to rely on every time.
 
 ### How can I sync my tablet and phone?
 ##### Device Name Matters
