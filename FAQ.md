@@ -8,9 +8,8 @@ Your account credentials are still valid—this is why the website and dashboard
 See also the _Trial_ section.
 
 #### Why are my individual episodes not syncing correctly?
-Mostly, apps just don’t sync often enough in the background-and on top of that, the sync protocol itself isn’t great at handling per-episode progress. That’s why you may end up with missing updates and there’s not much the server can really do about it. 
-Plus, there might be a delay: if you stop on one device and jump to another right away, the second one probably hasn’t synced yet, so it doesn’t know where you left off. Sync isn’t instant—it only updates when it runs a refresh.
-You can force a manual sync before switching devices, but realistically that’s not a great solution to rely on every time.
+Mostly, apps just don’t sync often enough in the background-and on top of that, the sync protocol itself isn’t great at handling per-episode progress. Consequently, there might be a delay: if you stop on one device and jump to another right away, the second one probably hasn’t synced yet, so it doesn’t know where you left off. 
+That’s why you may end up with missing updates and there’s not much the server can really do about it. You can force a manual sync before switching devices, but realistically that’s not a great solution to rely on every time.
 
 #### How can I sync my tablet and phone?
 ##### Device Name Matters
