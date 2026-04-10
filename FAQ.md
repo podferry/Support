@@ -7,6 +7,14 @@ This usually means your trial period has expired. After the trial ends, the serv
 Your account credentials are still valid—this is why the website and dashboard remain accessible. To confirm, log in to the dashboard and check your account or subscription status. If the trial has expired, supporting PodFerry will restore synchronization. 
 See also the _Trial_ section.
 
+#### Why are my individual episodes not syncing correctly?
+The underlying sync protocol has limited support for per-episode playback progress, and clients don’t consistently perform frequent background syncs. That combination can result in missed updates or conflicts between devices—and it’s not something that can be fixed on the server side.
+
+About the “start listening” delay:
+If you pause on one device and immediately continue on another, the second device may not yet reflect your latest position. Sync isn’t real-time; it depends on periodic refresh cycles. Until the second device syncs, it won’t be aware of the updated playback state.
+
+Manually forcing a sync before switching devices is a workaround, but in practice it’s not reliable or convenient enough for regular use.
+
 #### How can I sync my tablet and phone?
 ##### Device Name Matters
 To keep your episodes in sync across all your devices (phone, tablet, etc.), make sure they all use the same AntennaPod device name. For example, if your phone's AntennaPod app is named "antennapod_sm9," choose the same name on your tablet instead of creating a new one like "antennapod_tab10."        
