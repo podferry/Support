@@ -20,13 +20,13 @@ _Remember_: Only episodes you've actually listened to will be synchronized. Unpl
 #### Why do AntennaPod and PodFerry show different episode playback statuses?
 It appears that AntennaPod only tracks playback progress for episodes that were initially started within its own app. Episodes started in PodFerry might not have their playback positions recognized or updated in AntennaPod. Conversely, episodes initiated in AntennaPod resume correctly in PodFerry. Unfortunately, there might not be a solution on the PodFerry side to address this issue.
 
-#### What apps and protocols are compatible with PodFerry?
-PodFerry is compatible with gPodder.net protocol v2. It has been tested with AntennaPod, but compatibility with other gPodder clients or older protocol versions have not been verified. There are no plans to support other variations.
-For desktop listening, complementary to AntennaPod mobile app, you may use the [web player](https://www.podferry.com/dashboard/player) that works in any browser.
-
 #### Why are my individual episodes not syncing correctly?
 Mostly, apps just don’t sync often enough in the background-and on top of that, the sync protocol itself isn’t great at handling per-episode progress. Consequently, there might be a delay: if you stop on one device and jump to another right away, the second one probably hasn’t synced yet, so it doesn’t know where you left off. 
 That’s why you may end up with missing updates and there’s not much the server can really do about it. You can force a manual sync before switching devices, but realistically that’s not a great solution to rely on every time.
+
+#### What apps and protocols are compatible with PodFerry?
+PodFerry is compatible with gPodder.net protocol v2. It has been tested with AntennaPod, but compatibility with other gPodder clients or older protocol versions have not been verified. There are no plans to support other variations.
+For desktop listening, complementary to AntennaPod mobile app, you may use the [web player](https://www.podferry.com/dashboard/player) that works in any browser.
 
 #### Why am I unable to authenticate or access the service?
 Access to the service is now limited to supporters. Accounts that were previously on the free program shall move to a 21-day trial period. Once this trial expires, synchronization authentication is disabled unless the account is upgraded.
