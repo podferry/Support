@@ -7,10 +7,6 @@ This usually means your trial period has expired. After the trial ends, the serv
 Your account credentials are still valid—this is why the website and dashboard remain accessible. To confirm, log in to the dashboard and check your account or subscription status. If the trial has expired, supporting PodFerry will restore synchronization. 
 See also the _Trial_ section.
 
-#### Why are my individual episodes not syncing correctly?
-Mostly, apps just don’t sync often enough in the background-and on top of that, the sync protocol itself isn’t great at handling per-episode progress. Consequently, there might be a delay: if you stop on one device and jump to another right away, the second one probably hasn’t synced yet, so it doesn’t know where you left off. 
-That’s why you may end up with missing updates and there’s not much the server can really do about it. You can force a manual sync before switching devices, but realistically that’s not a great solution to rely on every time.
-
 #### How can I sync my tablet and phone?
 ##### Device Name Matters
 To keep your episodes in sync across all your devices (phone, tablet, etc.), make sure they all use the same AntennaPod device name. For example, if your phone's AntennaPod app is named "antennapod_sm9," choose the same name on your tablet instead of creating a new one like "antennapod_tab10."        
@@ -27,6 +23,10 @@ It appears that AntennaPod only tracks playback progress for episodes that were 
 #### What apps and protocols are compatible with PodFerry?
 PodFerry is compatible with gPodder.net protocol v2. It has been tested with AntennaPod, but compatibility with other gPodder clients or older protocol versions have not been verified. There are no plans to support other variations.
 For desktop listening, complementary to AntennaPod mobile app, you may use the [web player](https://www.podferry.com/dashboard/player) that works in any browser.
+
+#### Why are my individual episodes not syncing correctly?
+Mostly, apps just don’t sync often enough in the background-and on top of that, the sync protocol itself isn’t great at handling per-episode progress. Consequently, there might be a delay: if you stop on one device and jump to another right away, the second one probably hasn’t synced yet, so it doesn’t know where you left off. 
+That’s why you may end up with missing updates and there’s not much the server can really do about it. You can force a manual sync before switching devices, but realistically that’s not a great solution to rely on every time.
 
 #### Why am I unable to authenticate or access the service?
 Access to the service is now limited to supporters. Accounts that were previously on the free program shall move to a 21-day trial period. Once this trial expires, synchronization authentication is disabled unless the account is upgraded.
