@@ -1,7 +1,7 @@
 # What's New
 
 ### 2026-04-14
-* Player continuous playback: When an episode ends, the top item in the queue starts automatically
+* Player continuous playback: When an episode ends, the top item in the queue starts automatically.
 * Player auto-remove finished episodes from queue.
 * Player speed control adjustments
 
