@@ -1,14 +1,17 @@
 # What's New
 
+### 2026-05-06
+* Fixed players' orphan subscriptions with no linked device.
+
 ### 2026-05-04
-* You can now manage [devices](https://www.podferry.com/dashboard/devices) directly from your dashboard. Depending on your plan, you can add, edit, or delete devices.
+* NEW! You can now manage [devices](https://www.podferry.com/dashboard/devices) directly from your dashboard. Depending on your plan, you can add, edit, or delete devices.
 
   Note: "Delete" is not a standard protocol command. While deleting a device removes its episode actions and subscription relationships from the server, you may consider to clear local data manually to complete the cleanup.
 
 ### 2026-04-14
 * Player continuous playback: When an episode ends, the top item in the queue starts automatically.
 * Player auto-remove finished episodes from queue.
-* Player speed control adjustments
+* Player speed control adjustments.
 
 ### 2026-04-09
 * Handle BMC past-due grace period.
