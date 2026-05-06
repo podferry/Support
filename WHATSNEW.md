@@ -4,7 +4,7 @@
 * Fixed players' orphan subscriptions with no linked device.
 
 ### 2026-05-04
-* NEW! You can now manage [devices](https://www.podferry.com/dashboard/devices) directly from your dashboard. Depending on your plan, you can add, edit, or delete devices.
+* _NEW!_ You can now manage [devices](https://www.podferry.com/dashboard/devices) directly from your dashboard. Depending on your plan, you can add, edit, or delete devices.
 
   Note: "Delete" is not a standard protocol command. While deleting a device removes its episode actions and subscription relationships from the server, you may consider to clear local data manually to complete the cleanup.
 
