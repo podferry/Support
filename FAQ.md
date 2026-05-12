@@ -26,7 +26,7 @@ That’s why you may end up with missing updates and there’s not much the serv
 
 #### Why are some subscriptions missing or not syncing correctly between devices? 
 Best is to use the [Devices](https://www.podferry.com/dashboard/devices) page that can help troubleshoot synchronization issues:
-Verify the device names and Check the Available Subscriptions count. This is the most reliable indicator of how many subscriptions are actually syncing. Note that the web player may display fewer subscriptions because some podcast providers block browser-based access. 
+Verify the device names and Check the Available Subscriptions count. This is the most reliable indicator of how many subscriptions are actually syncing; the web player may display fewer subscriptions because some podcast providers block browser-based access. 
 
 #### What apps and protocols are compatible with PodFerry?
 PodFerry is compatible with gPodder.net protocol v2. It has been tested with AntennaPod, but compatibility with other gPodder clients or older protocol versions have not been verified. There are no plans to support other variations.
