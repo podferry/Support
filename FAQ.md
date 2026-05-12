@@ -1,5 +1,7 @@
 ### Frequently Asked Questions
 
+- [Synchronization](##Synchronization)
+
 ## Synchronization
 
 #### AntennaPod suddenly reports that synchronization has failed. What’s happening?
