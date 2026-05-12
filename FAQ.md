@@ -24,9 +24,8 @@ It appears that AntennaPod only tracks playback progress for episodes that were 
 Mostly, apps just don’t sync often enough in the background-and on top of that, the sync protocol itself isn’t great at handling per-episode progress. Consequently, there might be a delay: if you stop on one device and jump to another right away, the second one probably hasn’t synced yet, so it doesn’t know where you left off. 
 That’s why you may end up with missing updates and there’s not much the server can really do about it. You can force a manual sync before switching devices, but realistically that’s not a great solution to rely on every time.
 
-### Why are some subscriptions missing or not syncing correctly between devices? 
+#### Why are some subscriptions missing or not syncing correctly between devices? 
 Best is to use the [Devices](https://www.podferry.com/dashboard/devices) page that can help troubleshoot synchronization issues:
-
 Verify the device names and Check the Available Subscriptions count. This is the most reliable indicator of how many subscriptions are actually syncing. Note that the web player may display fewer subscriptions because some podcast providers block browser-based access. 
 
 #### What apps and protocols are compatible with PodFerry?
