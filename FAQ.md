@@ -1,10 +1,5 @@
 ### Frequently Asked Questions
 
-- [Synchronization](#Synchronization) 
-- [Quota](#Quota)
-- [Trial](#Trial)
-- [Account](#Account)
-
 ## Synchronization
 
 #### AntennaPod suddenly reports that synchronization has failed. What’s happening?
