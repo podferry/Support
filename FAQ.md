@@ -3,7 +3,7 @@
 - [Synchronization](##Synchronization)
 - [Quota](##Quota)
 - [Trial](##Trial)
-- [Account](##Account)
+- [Account](#Account)
 
 ## Synchronization
 
