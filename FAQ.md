@@ -1,6 +1,9 @@
 ### Frequently Asked Questions
 
 - [Synchronization](##Synchronization)
+- [Quota](##Quota)
+- [Trial](##Trial)
+- [Account](##Account)
 
 ## Synchronization
 
