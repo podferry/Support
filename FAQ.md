@@ -34,6 +34,7 @@ For desktop listening, complementary to AntennaPod mobile app, you may use the [
 
 #### Why am I unable to authenticate or access the service?
 Access to the service is now limited to supporters. Accounts that were previously on the free program shall move to a 21-day trial period. Once this trial expires, synchronization authentication is disabled unless the account is upgraded.
+
 ---
 ## Trial
 
@@ -45,6 +46,7 @@ The trial period lasts 21 days. After that, synchronization authentication will 
 
 #### Will my data or account be deleted if I don’t upgrade?
 No. PodFerry website access remains available, subject to usage limits. Synchronization and Gpodder client authentication are restricted.
+
 ---
 ## Quota
 
@@ -56,6 +58,7 @@ Contributors are not subject to a quota. Switching from trial to contributor may
 
 #### Why the subscription count discrepancy in PodFerry?
 The settings page accurately reflects the total number of subscriptions stored and accessible by your account. The subscription count in the player might be influenced by factors like trial subscription tier, resource limitations aimed at optimizing service for all users or third party CORS policy limitations".
+
 ---
 ## Account
 
