@@ -80,7 +80,7 @@
 * Added *Delete all episodes* button to clear queued episodes. Synchronized devices should be updated accordingly.
 * Introduced “What’s New” page.
 
---- 
+***
 
 ### 2024-01-31
 * Service launched
