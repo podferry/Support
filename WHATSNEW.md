@@ -1,7 +1,10 @@
 # What's New
 
+### 2025-05-15
+* Fixed players' action updates for selected episode edge cases.
+
 ### 2026-05-06
-* Fixed players' orphan subscriptions with no linked device.
+* Fixed players’ orphaned subscriptions with no linked device.
 
 ### 2026-05-04
 * _NEW!_ You can now manage [devices](https://www.podferry.com/dashboard/devices) directly from your dashboard. Depending on your plan, you can add, edit, or delete devices.
