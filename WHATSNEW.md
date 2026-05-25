@@ -1,6 +1,9 @@
 # What's New
 
-### 2025-05-15
+### 2026-05-25
+* Optimize CORS handling by caching blocks to minimize failed requests.
+
+### 2026-05-15
 * Fixed players' action updates for selected episode edge cases.
 
 ### 2026-05-06
