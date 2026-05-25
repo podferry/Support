@@ -2,6 +2,7 @@
 
 ### 2026-05-25
 * Optimized CORS handling by caching blocks to minimize failed requests.
+* Fixed first-result selection usability in the player Discover tab.
 
 ### 2026-05-15
 * Fixed players' action updates for selected episode edge cases.
