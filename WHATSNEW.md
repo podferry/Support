@@ -2,7 +2,7 @@
 
 ### 2026-05-31
 * Fixed player positioning on chapter selection.
-* 
+
 ### 2026-05-25
 * Optimized CORS handling by caching blocks to minimize failed requests.
 * Fixed first-result selection usability in the player Discover tab.
