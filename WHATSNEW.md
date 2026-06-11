@@ -1,5 +1,8 @@
 # What's New
 
+### 2026-06-11
+* Backoffice and Experience improvements.
+
 ### 2026-06-09
 * Revised player state refresh logic
 * Updated About page copy to remove references to a "free service"
