@@ -5,7 +5,7 @@
 
 ### 2026-06-11
 * Password reset support added.
-* Backoffice and Experience improvements.
+* Backoffice and dashboard experience improvements.
 
 ### 2026-06-09
 * Revised player state refresh logic
