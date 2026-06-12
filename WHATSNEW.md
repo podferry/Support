@@ -1,5 +1,8 @@
 # What's New
 
+### 2026-06-12
+* Improved player performance and overall experience.
+
 ### 2026-06-11
 * Password reset support added.
 * Backoffice and Experience improvements.
