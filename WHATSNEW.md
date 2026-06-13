@@ -1,5 +1,10 @@
 # What's New
 
+### 2026-06-13
+* Enabled navigation from episode view to the full list of podcast episodes.
+* Improved subscription and search tile handling.
+* Improved help tiles and added hints
+
 ### 2026-06-12
 * Improved player performance and overall experience.
 
