@@ -1,7 +1,7 @@
 # What's New
 
 ### 2026-06-13
-* Improved homepage, navigation, and help tiles.
+* Improved Homepage, Navigation, and Help tiles.
 * Improved Subscriptions and Search tabs experience.
 * Enabled navigation from episode view to the full list of podcast episodes.
 
