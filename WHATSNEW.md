@@ -2,7 +2,7 @@
 
 ### 2026-06-17
 * _NEW!_ You can now Import and export your podcast subscriptions via OPML (hero).
-* Progress bars now appear for episodes in both the Queue and Episodes tabs.
+* Progress bars for previously played episodes are shown in both the Queue and Episodes tabs.
 * Fixed: tapping chapter markers during playback was not registering.
 
 ### 2026-06-13
