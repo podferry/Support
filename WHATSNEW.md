@@ -3,7 +3,7 @@
 ### 2026-06-28
 * Cloud infrastructure updates; the service might have skipped a beat during maintenance.
 
-Note: If you experience any hiccups, please wait for your local DNS cache TTL to expire before troubleshooting.
+Note: If you experience any hiccups, please wait for your local *DNS cache TTL* to expire before troubleshooting.
 
 ### 2026-06-17
 * _NEW!_ You can now Import and export your podcast subscriptions via OPML (hero).
