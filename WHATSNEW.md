@@ -1,5 +1,8 @@
 # What's New
 
+### 2026-07-01
+* Adjusted the maximum player feed size.
+
 ### 2026-06-28
 * Cloud infrastructure updates; the service might have skipped a beat during maintenance.
 
