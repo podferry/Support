@@ -1,5 +1,8 @@
 # What's New
 
+### 2026-07-09
+* Database strengthening for improved reliability; major migration.
+
 ### 2026-07-01
 * Adjusted the maximum player feed size.
 
