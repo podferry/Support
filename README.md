@@ -12,3 +12,5 @@ Submit or Review [Issues](https://github.com/podferry/Support/issues)
 
 ## Homepage
 Visit [Site](https://www.podferry.com/)
+
+<img src="podferry.svg" alt="PodFerry Logo" width="600"/>
