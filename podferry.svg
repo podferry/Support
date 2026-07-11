@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <style>
+    /* standalone fallback; when inlined, currentColor follows the page theme */
+    svg { color: #4b5563; }
+    @media (prefers-color-scheme: dark) { svg { color: #f3f4f6; } }
+  </style>
+  <g transform="translate(0 7)">
+    <!-- microphone -->
+    <rect x="28.5" y="5" width="7" height="10" rx="3.5" stroke-width="2"/>
+    <path d="M25.5 11v1.5a6.5 6.5 0 0 0 13 0V11" stroke-width="2"/>
+    <path d="M32 19v5" stroke-width="2"/>
+    <!-- cabin -->
+    <rect x="19" y="24" width="26" height="11" rx="2"/>
+    <rect x="23.5" y="27.5" width="4.5" height="4" rx="1" stroke-width="1.6"/>
+    <rect x="30" y="27.5" width="4.5" height="4" rx="1" stroke-width="1.6"/>
+    <rect x="36.5" y="27.5" width="4.5" height="4" rx="1" stroke-width="1.6"/>
+    <!-- hull -->
+    <path d="M8 35h48l-5 10H13L8 35Z"/>
+    <circle cx="24" cy="40" r="1.4" stroke-width="1.6"/>
+    <circle cx="32" cy="40" r="1.4" stroke-width="1.6"/>
+    <circle cx="40" cy="40" r="1.4" stroke-width="1.6"/>
+  </g>
+</svg>
