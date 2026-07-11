@@ -1,16 +1,13 @@
-<img src="podferry.svg" alt="PodFerry Logo" width="248"/>
-
-# Help area - [PodFerry.com](https://podferry.com)
+## Help area - [PodFerry.com](https://podferry.com)
 **FAQ and Issues Repository** for use by end-users.
 
-## FAQ
-
+### FAQ
 Link to [Frequently Asked Questions](https://github.com/podferry/Support/blob/master/FAQ.md)
 
-## Issues
-
+### Issues
 Submit or Review [Issues](https://github.com/podferry/Support/issues)
 
-
-## Homepage
+### Homepage
 Visit [Site](https://www.podferry.com/)
+
+<img src="podferry.svg" alt="PodFerry Logo" width="192"/>
