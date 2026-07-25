@@ -1,5 +1,8 @@
 # What's New
 
+### 2026-07-25
+* Player handles network failures more gracefully; less likelihood of playback position being reset.
+
 ### 2026-07-09
 * Database strengthening for improved reliability; major migration.
 
