@@ -1,7 +1,7 @@
 # What's New
 
 ### 2026-08-08
-* Beta: Added Kasts support for Hero users; same core synchronization experience as AntennaPod on Linux. (No support for gPodder 2.1 POST sync-devices).
+* Beta: Added Kasts support for Hero users; similar to AntennaPod's sync experience on Linux. (No support for gPodder 2.1 POST sync-devices).
 
 ### 2026-07-25
 * Player handles network failures more gracefully; less likelihood of playback position being reset.
