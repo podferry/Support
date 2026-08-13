@@ -68,6 +68,9 @@ If you encounter any problems, please reach out via the Support [form](https://w
 #### How can I close my account?
 Account deletion is available in the settings menu.
 
+### What do I do if I forgot my password?
+Click [here](https://podferry.com/auth/forgotpassword) to reset your password. Enter the email associated with your account, and we'll send you a link to set a new one.
+
 ### How do I change my email address?
 Your account email cannot be changed at the moment. You may delete your existing account and create a new one. If you're a contributing member and wish to transfer your status, please [provide](https://www.podferry.com/help/requestform) the usernames/emails for both your new and old accounts. 
 
