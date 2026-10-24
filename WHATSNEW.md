@@ -1,5 +1,8 @@
 # What's New
 
+### 2026-10-24
+* The player is now a searchable, sortable tile grid with new-episode markers, plus filtering, and density. 
+
 ### 2026-08-08
 * Beta: Added Kasts support for Hero users; similar to AntennaPod's sync experience on Linux. (No support for gPodder 2.1 POST sync-devices).
 
